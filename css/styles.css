@@ -135,6 +135,7 @@ address .styled-address-text a:hover{
 /* Footer Section */
 footer{
     margin-top: 50px;
+    margin-bottom: 0px;
 }
 
 footer p{
